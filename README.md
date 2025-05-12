@@ -48,3 +48,5 @@ SEQUENCE DIAGRAM:
 
 
 # RESULT:
+
+Thus, the UML Diagrams for an ATM and Banking System has been drawn and verified.
