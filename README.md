@@ -4,7 +4,7 @@
 
 To draw a UML diagram for an ATM and Banking System
 
-# SRS (Procedure):
+# SRS (Procedure):s
 
 Create the following diagrams in StarUML:
 
